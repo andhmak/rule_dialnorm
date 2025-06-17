@@ -11,3 +11,21 @@ Example usage of a script:
 ```
 python3 normalize_dialects.py
 ```
+
+# Citation
+If you use this code, dataset or the relevant findings in your research, please cite this work as follows:
+
+```bibtex
+@inproceedings{dimakis-etal-2025-dialnorm,
+    title = "Dictionary-Aided Translation for Handling Multi-Word Expressions in Low-Resource Languages",
+    author = "Dimakis, Antonios  and
+      Pavlopoulos, John  and
+      Anastasopoulos, Antonios",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2025",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2506.08907",
+}
+```
